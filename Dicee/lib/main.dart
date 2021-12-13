@@ -1,3 +1,5 @@
+import 'package:flutter/material.dart';
+
 import 'widgets/my_app.dart';
 
-void main() => const MyApp();
+void main() => runApp(MyApp());
